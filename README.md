@@ -4,10 +4,10 @@
 ![Works with iOS](https://img.shields.io/badge/Works_with-iOS-blue?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/whatsapp/stickers?style=flat-square)
 
-### Added by MN 
-For best practices:
-https://faq.whatsapp.com/1056840314992666
-### End added by MN
+> ### Added by MN 
+> For best practices:
+> https://faq.whatsapp.com/1056840314992666
+> ### End added by MN
 
 > This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp.
 
